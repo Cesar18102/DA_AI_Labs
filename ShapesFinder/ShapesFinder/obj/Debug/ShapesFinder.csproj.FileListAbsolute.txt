@@ -1,0 +1,7 @@
+D:\!!!OLEG\!!!WORK\GitHub\DA_AI_Labs\ShapesFinder\ShapesFinder\bin\Debug\ShapesFinder.exe.config
+D:\!!!OLEG\!!!WORK\GitHub\DA_AI_Labs\ShapesFinder\ShapesFinder\bin\Debug\ShapesFinder.exe
+D:\!!!OLEG\!!!WORK\GitHub\DA_AI_Labs\ShapesFinder\ShapesFinder\bin\Debug\ShapesFinder.pdb
+D:\!!!OLEG\!!!WORK\GitHub\DA_AI_Labs\ShapesFinder\ShapesFinder\obj\Debug\ShapesFinder.csprojAssemblyReference.cache
+D:\!!!OLEG\!!!WORK\GitHub\DA_AI_Labs\ShapesFinder\ShapesFinder\obj\Debug\ShapesFinder.csproj.CoreCompileInputs.cache
+D:\!!!OLEG\!!!WORK\GitHub\DA_AI_Labs\ShapesFinder\ShapesFinder\obj\Debug\ShapesFinder.exe
+D:\!!!OLEG\!!!WORK\GitHub\DA_AI_Labs\ShapesFinder\ShapesFinder\obj\Debug\ShapesFinder.pdb
