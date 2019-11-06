@@ -1,6 +1,6 @@
 ﻿namespace ShapesFinder.Recognizers.Shapes
 {
-    public class Triangle : IShape
+    public class Rect : IShape
     {
         public int X { get; private set; }
         public int Y { get; private set; }
@@ -10,7 +10,7 @@
 
         public double Scope { get; private set; }
 
-        public Triangle(int x, int y, int width, int height, double scope)
+        public Rect(int x, int y, int width, int height, double scope)
         {
             X = x;
             Y = y;
@@ -21,6 +21,6 @@
             Scope = scope;
         }
 
-        public override string ToString() => "Triangle";
+        public override string ToString() => "Rectangle";
     }
 }

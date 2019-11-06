@@ -5,3 +5,5 @@ D:\!!!OLEG\!!!WORK\GitHub\DA_AI_Labs\ShapesFinder\ShapesFinder\obj\Debug\ShapesF
 D:\!!!OLEG\!!!WORK\GitHub\DA_AI_Labs\ShapesFinder\ShapesFinder\obj\Debug\ShapesFinder.csproj.CoreCompileInputs.cache
 D:\!!!OLEG\!!!WORK\GitHub\DA_AI_Labs\ShapesFinder\ShapesFinder\obj\Debug\ShapesFinder.exe
 D:\!!!OLEG\!!!WORK\GitHub\DA_AI_Labs\ShapesFinder\ShapesFinder\obj\Debug\ShapesFinder.pdb
+D:\!!!OLEG\!!!WORK\GitHub\DA_AI_Labs\ShapesFinder\ShapesFinder\obj\Debug\ShapesFinder.Properties.Resources.resources
+D:\!!!OLEG\!!!WORK\GitHub\DA_AI_Labs\ShapesFinder\ShapesFinder\obj\Debug\ShapesFinder.csproj.GenerateResource.cache

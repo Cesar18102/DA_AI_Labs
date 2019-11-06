@@ -1,2 +1,11 @@
 /LAB_1/WavParser2/WavParser2/bin
 /LAB_1/WavParser2/WavParser2/obj
+
+/ShapesFinder/.vs
+/ShapesFinder/ShapesFinder/obj
+
+!/ShapesFinder/ShapesFinder/bin
+/ShapesFinder/ShapesFinder/bin/*
+!/ShapesFinder/ShapesFinder/bin/Input
+!/ShapesFinder/ShapesFinder/bin/Output
+
